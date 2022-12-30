@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML 2D game.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+  main.cpp
+  Generating Code...
+  SFML 2D game.vcxproj -> C:\Users\evand\Dropbox\PC\Desktop\Coding examples\Visual Studio\C++\SFML 2D game\x64\Debug\SFML 2D game 1.exe
